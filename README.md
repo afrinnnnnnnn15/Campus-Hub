@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Campus%20Buddy-v1.0.0-blue" alt="Version">
-  <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status">
-</p>
+<img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/646f5be9-f4ae-4943-bcfe-2a0332c29a8f" />
+
 
 # Campus Buddy - Fresher Buddy Assistance System 🎓
 
@@ -580,3 +577,4 @@ MIT License © 2026 Campus Buddy System. All rights reserved.
   <strong>Made with ❤️ by the Campus Buddy Development Team</strong><br>
   <sub>Empowering freshers, one mentor at a time.</sub>
 </p>
+
